@@ -34,10 +34,10 @@ function getTotal(collection) {
 let myNFTs = [];
 
 // Create NFTs and add them to the collection
-addToCollection(createNFT("Digital Sunrise", "Alex Grey", 2021), myNFTs);
-addToCollection(createNFT("Virtual Dreams", "Beeple", 2020), myNFTs);
-addToCollection(createNFT("Blockchain Bliss", "Pak", 2022), myNFTs);
-addToCollection(createNFT("Ethereal Visions", "Mad Dog Jones", 2023), myNFTs); // New NFT
+addToCollection(createNFT("Zero twelve", "Sourav", 2024), myNFTs);
+addToCollection(createNFT("Law to Flaw", "Amit", 2022), myNFTs);
+addToCollection(createNFT("Black Pink", "Karan", 2021), myNFTs);
+addToCollection(createNFT("Dream Visions", "Umar", 2019), myNFTs); // New NFT
 
 // Print the NFTs in the collection
 printCollection(myNFTs);
